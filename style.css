@@ -1,0 +1,21 @@
+
+
+.l1 {
+    font-size: 200px;
+    display: inline;
+    letter-spacing: -80px;
+font-stretch: initial;
+    color: blue;
+
+}
+
+
+.l1t{
+    position: absolute;
+    top: 50px;
+    letter-spacing: 68px;
+    left: 85px;
+    font-size: 70px;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
